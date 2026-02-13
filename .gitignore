@@ -20,4 +20,5 @@ nycjobs/logs/*
 nycjobs/__pycache__/*
 
 tests/__pycache__/*
-
+.gitignore
+jupyter/notebook/.ipynb_checkpoints

@@ -33,10 +33,10 @@ following are the feature engineering solutions used
 5. Annual_Salary_Mid (salary normalization)    
 
 # Outputs created by the pipeline
-File 1: Skill_Salary_Distribution.csv         → KPI 1,2 (Top 10 categories + salary dist + skills)
+File 1: Skill_Salary_Distribution.csv         → KPI 1,2 (Top 10 categories + salary dist + skills)  
 File 2: Degree_Salary_Correlation.csv         → KPI 3 (Degree-salary correlation)  
-File 3: Agency_insight.csv                    → KPI 4,5 (Agency max/avg salaries)
-File 4: Highest_Paid_Skill.csv                → KPI 6 (Highest paid skills in US)     
+File 3: Agency_insight.csv                    → KPI 4,5 (Agency max/avg salaries)  
+File 4: Highest_Paid_Skill.csv                → KPI 6 (Highest paid skills in US)  
 
 
 # How to run 
