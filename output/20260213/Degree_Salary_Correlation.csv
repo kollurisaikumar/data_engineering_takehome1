@@ -1,0 +1,24 @@
+Qualification_Category,Salary_Qual_Flag,job_count,avg_salary
+Bachelors Degree,highly paid,264,98346.0
+Bachelors Degree,underpaid,187,52962.0
+Bachelors Degree,industry standard,128,70618.0
+Bachelors Degree,below standard,108,62398.0
+Bachelors Degree,above standard,12,76978.0
+Diploma,industry standard,46,48068.0
+Diploma,below standard,30,42858.0
+Diploma,highly paid,29,73063.0
+Diploma,underpaid,14,37198.0
+Diploma,above standard,3,52147.0
+Experienced,highly paid,165,112164.0
+Experienced,underpaid,132,48918.0
+Experienced,industry standard,52,79114.0
+Experienced,below standard,44,70783.0
+Experienced,above standard,6,86434.0
+Masters Degree,highly paid,136,110413.0
+Masters Degree,industry standard,111,84673.0
+Masters Degree,underpaid,94,62489.0
+Masters Degree,below standard,68,74355.0
+Masters Degree,above standard,2,91902.0
+Matriculation,industry standard,19,37049.0
+Matriculation,below standard,10,32769.0
+Matriculation,underpaid,1,19874.0

@@ -1,0 +1,24 @@
+# Python Bytecode Cache (ALL __pycache__ folders)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pytest cache (your .pytest_cache folder)
+.pytest_cache/
+
+# Logs (ALL logs folders + files)
+logs/
+*.log
+pyspark-*.log
+
+# Temporary files
+*.tmp
+temp/
+.pytest_cache/**/*
+
+nycjobs/logs/*
+nycjobs/__pycache__/*
+
+tests/__pycache__/*
+.gitignore
+jupyter/notebook/.ipynb_checkpoints
