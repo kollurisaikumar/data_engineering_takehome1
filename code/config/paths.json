@@ -1,0 +1,5 @@
+{
+  "input_dir": "D:/Sai/data_engineering_takehome1/dataset",
+  "output_dir": "D:/Sai/data_engineering_takehome1/output", 
+  "log_dir": "D:/Sai/data_engineering_takehome1/logs"
+}

@@ -1,0 +1,30 @@
+{
+  "technical": {
+    "engineering": ["cad", "solidworks", "autocad", "matlab", "ansys", "revit"],
+    "construction": ["procore", "bluebeam", "primavera", "ms project"],
+    "healthcare": ["epic", "cerner", "ehr", "hl7", "emr"],
+    "finance": ["sap", "oracle", "peoplesoft", "quickbooks", "salesforce"],
+    "legal": ["lexisnexis", "westlaw", "pacers", "case management"]
+  },
+  "it_data": {
+    "programming": ["python", "java", "sql", "javascript", "r", "scala", "c++"],
+    "cloud": ["aws", "azure", "gcp", "docker", "kubernetes"],
+    "data": ["tableau", "powerbi", "snowflake", "databricks", "spark"]
+  },
+  "certifications": {
+    "project": ["pmp", "agile", "scrum", "six sigma"],
+    "finance": ["cpa", "cfa", "cfp", "frs"],
+    "health": ["rn", "cna", "lpn", "emt"],
+    "safety": ["osha", "hazwoper", "first aid", "cpr"]
+  },
+  "professional": {
+    "leadership": ["supervisory", "management", "team lead", "director"],
+    "communication": ["public speaking", "negotiation", "stakeholder"],
+    "analysis": ["data analysis", "financial modeling", "risk assessment"]
+  },
+  "operations": {
+    "maintenance": ["hvac", "plumbing", "electrical", "carpentry"],
+    "procurement": ["vendor management", "contract negotiation", "rfp"],
+    "hr": ["recruiting", "talent acquisition", "onboarding"]
+  }
+}
